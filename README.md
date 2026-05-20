@@ -37,4 +37,12 @@ Hasil pelatihan menampilkan:
 Model JST berhasil melakukan klasifikasi dataset Iris dengan tingkat akurasi yang baik.
 
 --
-##Gambar Grafik
+## Grafik Hasil Training
+
+### Grafik Accuracy & Loss
+
+![Grafik Training 1](https://drive.google.com/uc?export=view&id=18SkpmiUFsdxyIZC2QDHIJ--SmVTWi05f)
+
+### Confusion Matrix
+
+![Confusion Matrix](https://drive.google.com/uc?export=view&id=17oHuq3KrfYeCx6HFEoj24TAY6U1itQGI)
